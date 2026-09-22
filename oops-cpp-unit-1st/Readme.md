@@ -1,6 +1,6 @@
-* ###### **STUDENT NAME :- SHREYA SANTOSH DHURANDHAR**
-* ###### **ZPRN :- 125UAD1131**
-* ###### **CLASS/DIV :- SY B.Tech(F)**
+* ###### **STUDENT NAME :- Sanskar Salunke**
+* ###### **ZPRN :- 125UAD1186**
+* ###### **CLASS/DIV :- SY B.Tech-(F)**
 * ###### **COURSE NAME :- OOP's**
 * ###### **UNIT-1**
 * ###### **LIST OF PROGRAMS AND BRIEF DESCRIPTION OF EACH PROGRAM :-**
